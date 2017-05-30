@@ -1,4 +1,4 @@
-FROM lsiobase/alpine.python.arm64
+FROM lsiobase/alpine.python.arm64:3.6
 MAINTAINER sparklyballs
 
 # set version label
