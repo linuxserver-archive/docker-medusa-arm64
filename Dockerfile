@@ -10,6 +10,7 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 RUN \
  apk add --no-cache \
 	--repository http://nl.alpinelinux.org/alpine/edge/community \
+	py-gdbm \
 	mediainfo && \
 
 # install app
