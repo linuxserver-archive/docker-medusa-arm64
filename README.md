@@ -5,7 +5,7 @@
 [appurl]: https://github.com/pymedusa/Medusa
 [hub]: https://hub.docker.com/r/lsioarmhf/medusa-aarch64/
 
-THIS IMAGE IS DEPRECATED. PLEASE USE THE MULTI-ARCH IMAGES AT `linuxserver/medusa
+THIS IMAGE IS DEPRECATED. PLEASE USE THE MULTI-ARCH IMAGES AT `linuxserver/medusa`
 
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)][linuxserverurl]
 
