@@ -1,0 +1,21 @@
+#!/usr/bin/with-contenv bash
+
+echo '
+******************************************************
+******************************************************
+*                                                    *
+*                                                    *
+*          This image has been deprecated            *
+*                                                    *
+*           Use the multi-arch images at             *
+*                                                    *
+*               linuxserver/medusa                   *
+*                                                    *
+*    https://hub.docker.com/r/linuxserver/medusa     *
+*                                                    *
+*   https://github.com/linuxserver/docker-medusa     *
+*                                                    *
+*                                                    *
+*                                                    *
+******************************************************
+******************************************************'
